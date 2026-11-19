@@ -1,0 +1,4 @@
+com\univalle\demo\DemoApplication.class
+com\univalle\demo\entity\Student.class
+com\univalle\demo\repository\StudentRepository.class
+com\univalle\demo\controller\StudentController.class
